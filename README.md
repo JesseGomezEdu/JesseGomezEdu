@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Jesse
+
+- I am currently studying Information Science and Data Analytics at San Jose City College
+- Currently learning HTML, CSS, JavaScript and SQL.
+- I can be reached at my email: jessegomezsjcc@gmail.com
 
 <!--
 **JesseGomezEdu/JesseGomezEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
